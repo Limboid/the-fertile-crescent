@@ -1,0 +1,36 @@
+[submodule "ainimal-ecosystem"]
+	path = ainimal-ecosystem
+	url = https://github.com/Limboid/ainimal-ecosystem.git
+[submodule "architectures/man"]
+	path = architectures/man
+	url = https://github.com/Limboid/man.git
+[submodule "architectures/mpnets"]
+	path = architectures/mpnets
+	url = https://github.com/Limboid/mpnets.git
+[submodule "architectures/massive-man"]
+	path = architectures/massive-man
+	url = https://github.com/Limboid/massive-man.git
+[submodule "computatrum"]
+	path = computatrum
+	url = https://github.com/Limboid/computatrum
+[submodule "modalities"]
+	path = modalities
+	url = https://github.com/Limboid/modalities
+[submodule "environments/computer-env"]
+	path = environments/computer-env
+	url = https://github.com/Limboid/computer-env.git
+[submodule "environments/limboid-env"]
+	path = environments/limboid-env
+	url = https://github.com/Limboid/limboid-env.git
+[submodule "environments/the-artificial-experience"]
+	path = environments/the-artificial-experience
+	url = https://github.com/Limboid/the-artificial-experience.git
+[submodule "environments/the-artificial-school"]
+	path = environments/the-artificial-school
+	url = https://github.com/Limboid/the-artificial-school.git
+[submodule "limboid/limboid-robot"]
+	path = limboid/limboid-robot
+	url = https://github.com/Limboid/limboid-robot.git
+[submodule "limboid/boid-net"]
+	path = limboid/boid-net
+	url = https://github.com/Limboid/boid-net.git
