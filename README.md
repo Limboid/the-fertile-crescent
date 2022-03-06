@@ -16,6 +16,13 @@ The Aritificial Ecosystem is a monorepo:
 [ ] make a nice organization page for Limboid on github
 [ ] Make all projects in share similar readme, license, etc structure
 [ ] Publish these md docs in a simple static site.
+[ ] spice up the README.md with some nice images and google slide video presentations
+[ ] add documentation latex
+[ ] social media
+[ ] communication channel
+[ ] newsletter
+[ ] blog
+[ ] meetings
 
 ## Contributing
 
