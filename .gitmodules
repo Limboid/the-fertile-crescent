@@ -28,9 +28,3 @@
 [submodule "environments/the-artificial-school"]
 	path = environments/the-artificial-school
 	url = https://github.com/Limboid/the-artificial-school.git
-[submodule "limboid/limboid-robot"]
-	path = limboid/limboid-robot
-	url = https://github.com/Limboid/limboid-robot.git
-[submodule "limboid/boid-net"]
-	path = limboid/boid-net
-	url = https://github.com/Limboid/boid-net.git
