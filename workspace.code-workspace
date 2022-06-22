@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "computatrum"
+		},
+		{
+			"path": "foundation/deeppy"
+		},
+		{
+			"path": "foundation/unsupervized"
+		},
+		{
+			"path": "foundation/node-tree"
+		}
+	],
+	"settings": {}
+}

@@ -28,3 +28,6 @@
 [submodule "environments/the-artificial-school"]
 	path = environments/the-artificial-school
 	url = https://github.com/Limboid/the-artificial-school.git
+[submodule "physical-reward-modeling"]
+	path = architectures/physical-reward-modeling
+	url = https://github.com/Limboid/physical-reward-modeling.git
