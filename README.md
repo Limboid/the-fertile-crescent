@@ -16,6 +16,11 @@ The Aritificial Ecosystem is a monorepo:
 - to promote the sustained evolution of artificial intelligence
 - all permissively released under the MIT license.
 
+## More information
+
+- [Computatrum Project Spec](/assets/pdf/Computatrum_Project_Spec.pdf)
+- [The Master Plan (part 1)](https://jacobfv.github.io/blog/the-master-plan-part-1/)
+
 ## Roadmap
 
 
